@@ -115,8 +115,6 @@
     "soFolder": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/cmake/debug/lib",
     "isDebuggableEnabled": true,
     "validAbiList": [
-      "ARMEABI_V7A",
-      "ARM64_V8A",
       "X86"
     ],
     "buildTargetSet": [
@@ -223,6 +221,7 @@
         "sdkFolder": "/home/devmob/Android/Sdk",
         "isNativeCompilerSettingsCacheEnabled": false,
         "isBuildOnlyTargetAbiEnabled": true,
+        "ideBuildTargetAbi": "x86",
         "isCmakeBuildCohabitationEnabled": false,
         "isPrefabEnabled": false,
         "isV2NativeModelEnabled": true
