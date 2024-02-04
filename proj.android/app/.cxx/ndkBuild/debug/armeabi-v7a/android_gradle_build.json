@@ -1,0 +1,448 @@
+{
+  "buildFiles": [
+    "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+      "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+      "APP_ABI\u003darmeabi-v7a",
+      "NDK_ALL_ABIS\u003darmeabi-v7a",
+      "NDK_DEBUG\u003d1",
+      "APP_PLATFORM\u003dandroid-21",
+      "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+      "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+      "NDK_TOOLCHAIN_VERSION\u003dclang",
+      "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+      "NDK_DEBUG\u003d1",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+    "APP_ABI\u003darmeabi-v7a",
+    "NDK_ALL_ABIS\u003darmeabi-v7a",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-21",
+    "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+    "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+    "NDK_TOOLCHAIN_VERSION\u003dclang",
+    "-j56",
+    "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+    "NDK_DEBUG\u003d1",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ext_vorbisidec-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libext_vorbisidec.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "ext_vorbisidec",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libext_vorbisidec.a"
+    },
+    "cc_core-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libcc_core.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "cc_core",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libcc_core.a"
+    },
+    "ui-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libui.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "ui",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libui.a"
+    },
+    "spine-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libspine.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "spine",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libspine.a"
+    },
+    "net-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libnet.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "net",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libnet.a"
+    },
+    "recast-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/librecast.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "recast",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/librecast.a"
+    },
+    "c3d-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libc3d.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "c3d",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libc3d.a"
+    },
+    "flatbuffers-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/flatbuffers.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "flatbuffers",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/flatbuffers.a"
+    },
+    "ccandroid-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libccandroid.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "ccandroid",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libccandroid.a"
+    },
+    "audio-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libaudio.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "audio",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libaudio.a"
+    },
+    "cpufeatures-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libcpufeatures.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "cpufeatures",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libcpufeatures.a"
+    },
+    "MyGame-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libMyGame.so"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "MyGame",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libMyGame.so"
+    },
+    "ets-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libets.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "ets",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libets.a"
+    },
+    "ccs-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libccs.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "ccs",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libccs.a"
+    },
+    "ccb-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libccb.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "ccb",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libccb.a"
+    },
+    "ext_pvmp3dec-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libext_pvmp3dec.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "ext_pvmp3dec",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libext_pvmp3dec.a"
+    },
+    "ccds-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "-j56",
+        "NDK_MODULE_PATH\u003d/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos:/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external",
+        "NDK_DEBUG\u003d1",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libccds.a"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "ccds",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libccds.a"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi-v7a": {
+      "cCompilerExecutable": "/home/devmob/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+      "cppCompilerExecutable": "/home/devmob/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c",
+    "s"
+  ],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}

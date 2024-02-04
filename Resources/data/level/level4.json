@@ -1,0 +1,190 @@
+{
+    "initialEnergy": 50,
+    "map": [
+        [0, 1, 0, 0, 1],
+        [0, 1, 0, 0, 1],
+        [1, 1, 0, 0, 1],
+        [1, 0, 0, 1, 1],
+        [1, 0, 0, 1, 0],
+        [1, 0, 0, 1, 0],
+        [1, 0, 0, 1, 0],
+        [1, 0, 0, 1, 0]
+    ],
+    "enemyPaths": [
+        [[7, 0], [6, 0], [5, 0], [4, 0], [3, 0], [2, 0], [2, 1], [1, 1], [0, 1]],
+        [[7, 3], [6, 3], [5, 3], [4, 3], [3, 3], [3, 4], [2, 4], [1, 4], [0, 4]]
+    ],
+    "beginPaths": [
+        [7, 0], [7, 3]
+    ],
+    "endPaths": [
+        [0, 1], [0, 4]
+    ],
+    "waves": [
+        {
+            "time": 13.5,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 15.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 28.5,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 30.3,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 40.5,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 43.3,
+            "huge": false,
+            "enemies": [1]
+        },
+        {
+            "time": 53.5,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 55.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 55.9,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 56.8,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 58.5,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 60.3,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 63.3,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 70.5,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 73.3,
+            "huge": false,
+            "enemies": [1]
+        },
+        {
+            "time": 75.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 88.5,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 90.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 90.9,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 91.8,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 93.5,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 95.3,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 98.3,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 105.5,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 108.3,
+            "huge": false,
+            "enemies": [1]
+        },
+        {
+            "time": 110.0,
+            "huge": false,
+            "enemies": [1]
+        },
+        {
+            "time": 118.0,
+            "huge": true,
+            "enemies": []
+        },
+        {
+            "time": 120.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 122.5,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 125.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 125.6,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 130.0,
+            "huge": false,
+            "enemies": [2]
+        },
+        {
+            "time": 134.5,
+            "huge": false,
+            "enemies": [2]
+        }
+    ]
+}

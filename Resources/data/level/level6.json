@@ -1,0 +1,225 @@
+{
+    "initialEnergy": 50,
+    "map": [
+        [3, 0, 1, 0, 3],
+        [3, 0, 1, 0, 3],
+        [3, 0, 1, 0, 3],
+        [3, 0, 1, 0, 3],
+        [0, 1, 1, 1, 0],
+        [0, 1, 0, 1, 0],
+        [0, 1, 0, 1, 0],
+        [1, 1, 0, 1, 1]
+    ],
+    "enemyPaths": [
+        [[7, 0], [7, 1], [6, 1], [5, 1], [4, 1], [4, 2], [3, 2], [2, 2], [1, 2], [0, 2]],
+        [[7, 4], [7, 3], [6, 3], [5, 3], [4, 3], [4, 2], [3, 2], [2, 2], [1, 2], [0, 2]]
+    ],
+    "beginPaths": [
+        [7, 0], [7, 4]
+    ],
+    "endPaths": [
+        [0, 2]
+    ],
+    "waves": [
+        {
+            "time": 10.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 15.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 30.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 34.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 38.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 53.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 55.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 57.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 59.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 67.0,
+            "huge": false,
+            "enemies": [1]
+        },
+        {
+            "time": 69.0,
+            "huge": false,
+            "enemies": [1]
+        },
+        {
+            "time": 75.0,
+            "huge": true,
+            "enemies": []
+        },
+        {
+            "time": 77.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 79.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 82.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 84.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 88.0,
+            "huge": false,
+            "enemies": [1]
+        },
+        {
+            "time": 90.0,
+            "huge": false,
+            "enemies": [1]
+        },
+        {
+            "time": 95.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 97.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 103.0,
+            "huge": false,
+            "enemies": [1]
+        },
+        {
+            "time": 107.0,
+            "huge": false,
+            "enemies": [3]
+        },
+        {
+            "time": 115.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 118.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 120.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 125.0,
+            "huge": false,
+            "enemies": [4]
+        },
+        {
+            "time": 130.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 132.0,
+            "huge": false,
+            "enemies": [0]
+        },
+        {
+            "time": 135.0,
+            "huge": false,
+            "enemies": [4]
+        },
+        {
+            "time": 138.0,
+            "huge": false,
+            "enemies": [4]
+        },
+        {
+            "time": 142.0,
+            "huge": true,
+            "enemies": []
+        },
+        {
+            "time": 144.0,
+            "huge": false,
+            "enemies": [3]
+        },
+        {
+            "time": 146.0,
+            "huge": false,
+            "enemies": [1]
+        },
+        {
+            "time": 148.0,
+            "huge": false,
+            "enemies": [1]
+        },
+        {
+            "time": 150.0,
+            "huge": false,
+            "enemies": [3]
+        },
+        {
+            "time": 153.0,
+            "huge": false,
+            "enemies": [4]
+        },
+        {
+            "time": 156.0,
+            "huge": false,
+            "enemies": [4]
+        },
+        {
+            "time": 159.0,
+            "huge": false,
+            "enemies": [4]
+        },
+        {
+            "time": 162.0,
+            "huge": false,
+            "enemies": [4]
+        },
+        {
+            "time": 165.0,
+            "huge": false,
+            "enemies": [4]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#ifndef __UI_CONTROL_DEFINITIONS_H__
+#define __UI_CONTROL_DEFINITIONS_H__
+
+#endif // !__UI_CONTROL_DEFINITIONS_H__

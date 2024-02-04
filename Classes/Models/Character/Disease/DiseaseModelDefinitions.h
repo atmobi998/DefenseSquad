@@ -1,0 +1,27 @@
+#ifndef __DISEASE_MODEL_DEFINITIONS_H__
+#define __DISEASE_MODEL_DEFINITIONS_H__
+
+enum DiseaseAction {
+    WALKING,
+    ATTACKING,
+    WAITING
+};
+
+enum DiseaseId {
+    DISEASE_00_RABIES,
+    DISEASE_01_SMALLPOX,
+    DISEASE_02_INFLUENZA,
+    DISEASE_03_MEASLES,
+    DISEASE_04_POLIO,
+    DISEASE_05_MALARIA,
+    DISEASE_06_EBOLA
+};
+
+enum Direction {
+    UP,
+    DOWN,
+    LEFT,
+    RIGHT
+};
+
+#endif // !__DISEASE_MODEL_DEFINITIONS_H__

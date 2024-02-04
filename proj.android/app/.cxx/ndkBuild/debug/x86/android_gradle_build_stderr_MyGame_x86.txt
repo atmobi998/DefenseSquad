@@ -1,0 +1,22 @@
+/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/../../../Classes/Models/Character/Cell/CellModel.cpp:21:13: warning: enumeration value 'REMOVE_CELL' not handled in switch [-Wswitch]
+    switch (id) {
+            ^
+1 warning generated.
+/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/../../../Classes/UIObjects/UICell/UICell.cpp:18:10: warning: enumeration value 'REMOVE_CELL' not handled in switch [-Wswitch]
+        switch (id) {
+                ^
+1 warning generated.
+/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/../../../Classes/Scenes/TemplateScene/TemplateScene.cpp:22:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+1 warning generated.
+/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/platform/android/javaactivity-android.cpp:108:34: warning: 'init' is deprecated [-Wdeprecated-declarations]
+        cocos2d::DrawPrimitives::init();
+                                 ^
+/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/platform/android/../../2d/CCDrawingPrimitives.h:89:5: note: 'init' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE void CC_DLL init();
+    ^
+/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/platform/android/../../platform/CCPlatformMacros.h:274:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+1 warning generated.

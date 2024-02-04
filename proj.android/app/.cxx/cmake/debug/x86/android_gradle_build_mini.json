@@ -1,0 +1,273 @@
+{
+  "buildFiles": [
+    "/home/devmob/devmob_dev/Games/DefenseSquad/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/2d/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/3d/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/vr/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/ui/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/math/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/base/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/extensions/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/audio/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/uv/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/md5/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/png/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/physics/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/navmesh/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/network/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/storage/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/jpeg/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/tiff/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/webp/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/curl/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/zlib/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/platform/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/renderer/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/Box2D/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/xxtea/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/unzip/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/physics3d/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/recast/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/bullet/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/xxhash/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/deprecated/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/openssl/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/clipper/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/chipmunk/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/tinyxml2/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/poly2tri/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/freetype2/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/websockets/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/edtaa3func/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/ConvertUTF/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/platform/android/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/editor-support/spine/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/editor-support/cocostudio/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/editor-support/cocosbuilder/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/android-specific/tremolo/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/android-specific/pvmp3dec/CMakeLists.txt",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/android-specific/cpufeatures/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ext_tremolo-Debug-x86": {
+      "artifactName": "ext_tremolo",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "ext_tremolo"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libext_tremolo.a",
+      "runtimeFiles": []
+    },
+    "ext_unzip-Debug-x86": {
+      "artifactName": "ext_unzip",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "ext_unzip"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libext_unzip.a",
+      "runtimeFiles": []
+    },
+    "ext_tinyxml2-Debug-x86": {
+      "artifactName": "ext_tinyxml2",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "ext_tinyxml2"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libext_tinyxml2.a",
+      "runtimeFiles": []
+    },
+    "cocos2d-Debug-x86": {
+      "artifactName": "cocos2d",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "cocos2d"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libcocos2d.a",
+      "runtimeFiles": []
+    },
+    "ext_recast-Debug-x86": {
+      "artifactName": "ext_recast",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "ext_recast"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libext_recast.a",
+      "runtimeFiles": []
+    },
+    "external-Debug-x86": {
+      "artifactName": "external",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "external"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libexternal.a",
+      "runtimeFiles": []
+    },
+    "ext_md5-Debug-x86": {
+      "artifactName": "ext_md5",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "ext_md5"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libext_md5.a",
+      "runtimeFiles": []
+    },
+    "ext_clipper-Debug-x86": {
+      "artifactName": "ext_clipper",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "ext_clipper"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libext_clipper.a",
+      "runtimeFiles": []
+    },
+    "ext_convertUTF-Debug-x86": {
+      "artifactName": "ext_convertUTF",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "ext_convertUTF"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libext_convertUTF.a",
+      "runtimeFiles": []
+    },
+    "ext_xxhash-Debug-x86": {
+      "artifactName": "ext_xxhash",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "ext_xxhash"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libext_xxhash.a",
+      "runtimeFiles": []
+    },
+    "ext_xxtea-Debug-x86": {
+      "artifactName": "ext_xxtea",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "ext_xxtea"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libext_xxtea.a",
+      "runtimeFiles": []
+    },
+    "ext_cpufeatures-Debug-x86": {
+      "artifactName": "ext_cpufeatures",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "ext_cpufeatures"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/engine/external/android-specific/cpufeatures/libext_cpufeatures.a",
+      "runtimeFiles": []
+    },
+    "ext_edtaa3func-Debug-x86": {
+      "artifactName": "ext_edtaa3func",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "ext_edtaa3func"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libext_edtaa3func.a",
+      "runtimeFiles": []
+    },
+    "ext_poly2tri-Debug-x86": {
+      "artifactName": "ext_poly2tri",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "ext_poly2tri"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libext_poly2tri.a",
+      "runtimeFiles": []
+    },
+    "MyGame-Debug-x86": {
+      "artifactName": "MyGame",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "MyGame"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/cmake/debug/obj/x86/libMyGame.so",
+      "runtimeFiles": []
+    },
+    "cpp_android_spec-Debug-x86": {
+      "artifactName": "cpp_android_spec",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "cpp_android_spec"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/engine/cocos/platform/libcpp_android_spec.a",
+      "runtimeFiles": []
+    },
+    "ext_pvmp3dec-Debug-x86": {
+      "artifactName": "ext_pvmp3dec",
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "ext_pvmp3dec"
+      ],
+      "abi": "x86",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libext_pvmp3dec.a",
+      "runtimeFiles": []
+    }
+  }
+}

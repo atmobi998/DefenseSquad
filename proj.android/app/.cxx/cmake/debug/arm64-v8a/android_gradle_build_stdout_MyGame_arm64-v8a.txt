@@ -1,0 +1,99 @@
+ninja: Entering directory `/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/arm64-v8a'
+[1/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/EffectCell/Effector/Effector.cpp.o
+[2/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIComponents/UINotification/UINotification.cpp.o
+[3/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/CharacterModel.cpp.o
+[4/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/ShootingCell/ShootingCellType/Cell03/Cell03Model.cpp.o
+[5/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/EffectCell/EffectCellModel.cpp.o
+[6/86] Building CXX object CMakeFiles/MyGame.dir/Classes/AppDelegate.cpp.o
+[7/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/ShootingCell/ShootingCellType/Cell05/Cell05Model.cpp.o
+[8/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/GameScene/Components/GSBrick.cpp.o
+[9/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/ShootingCell/ShootingCellModel.cpp.o
+[10/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Disease/DiseaseModel.cpp.o
+[11/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Disease/DiseaseType/Disease04/Disease04Model.cpp.o
+[12/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/ShootingCell/Projectile/ProjectileType/Cell00/Cell00ProjectileModel.cpp.o
+[13/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/EffectCell/EffectCellType/Cell06/Cell06Model.cpp.o
+[14/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/ShootingCell/Projectile/ProjectileType/Cell05/Cell05ProjectileModel.cpp.o
+[15/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/ShootingCell/Projectile/ProjectileModel.cpp.o
+[16/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/ShootingCell/Shooter/Shooter.cpp.o
+[17/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/TemplateScene/TemplateScene.cpp.o
+../../../../../../Classes/Scenes/TemplateScene/TemplateScene.cpp:22:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+1 warning generated.
+[18/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Disease/DiseaseType/Disease00/Disease00Model.cpp.o
+[19/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/GameScene/Components/GSFlag.cpp.o
+[20/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/CellBar/CellBarModel.cpp.o
+[21/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Disease/DiseaseType/Disease02/Disease02Model.cpp.o
+[22/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/EffectCell/EffectCellType/Cell02/Cell02Model.cpp.o
+[23/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/ShootingCell/ShootingCellType/Cell00/Cell00Model.cpp.o
+[24/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Disease/DiseaseType/Disease06/Disease06Model.cpp.o
+[25/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/CellModel.cpp.o
+../../../../../../Classes/Models/Character/Cell/CellModel.cpp:21:13: warning: enumeration value 'REMOVE_CELL' not handled in switch [-Wswitch]
+    switch (id) {
+            ^
+1 warning generated.
+[26/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/MainMenuScene/MMControl.cpp.o
+[27/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIControl/UIControlGold/UIControlGold.cpp.o
+[28/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/TemplateScene/Components/TemplateComponent/TemplateComponent.cpp.o
+[29/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/GameScene/GSBackgroundLayer.cpp.o
+[30/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Disease/DiseaseType/Disease03/Disease03Model.cpp.o
+[31/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Numeric/NumericModel.cpp.o
+[32/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/ShootingCell/Projectile/ProjectileType/Cell03/Cell03ProjectileModel.cpp.o
+[33/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Wave/WaveModel.cpp.o
+[34/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Disease/DiseaseType/Disease05/Disease05Model.cpp.o
+[35/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Disease/DiseaseType/Disease01/Disease01Model.cpp.o
+[36/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/EffectCell/EffectCellType/Cell04/Cell04Model.cpp.o
+[37/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIControl/UIControl.cpp.o
+[38/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/GameScene/Components/GSTutorial.cpp.o
+[39/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/MainMenuScene/MainMenuScene.cpp.o
+[40/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Character/Cell/EffectCell/EffectCellType/Cell01/Cell01Model.cpp.o
+[41/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/LevelScene/SwitchSceneButton.cpp.o
+[42/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIComponents/UIProgressor/UIProgressor.cpp.o
+[43/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/LevelScene/LevelButton.cpp.o
+[44/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIControl/UITextLayer/UISureLayer.cpp.o
+[45/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/MainMenuScene/MMBackgroundLayer.cpp.o
+[46/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/SplashScene/SplashScene.cpp.o
+[47/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIControl/UIControlCellBar/UIControlCellBar.cpp.o
+[48/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIControl/UIRemove/UIRemove.cpp.o
+[49/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/GameScene/GSControlLayer.cpp.o
+[50/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/GameScene/GameScene.cpp.o
+[51/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/LevelScene/LevelScene.cpp.o
+[52/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIControl/UIPause/UIPause.cpp.o
+[53/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIControl/UIControlEnergy/UIControlEnergy.cpp.o
+[54/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/GameScene/GSMap.cpp.o
+[55/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIControl/UIResultLayer/UIRewardLayer.cpp.o
+[56/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIControl/UIResultLayer/UILoseLayer.cpp.o
+[57/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UICell/UICellType/Cell01/UICell01.cpp.o
+[58/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UINumeric/UINumeric.cpp.o
+[59/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UICell/UICell.cpp.o
+../../../../../../Classes/UIObjects/UICell/UICell.cpp:18:10: warning: enumeration value 'REMOVE_CELL' not handled in switch [-Wswitch]
+        switch (id) {
+                ^
+1 warning generated.
+[60/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UICell/UICellType/Cell02/UICell02.cpp.o
+[61/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIControl/UITextLayer/UITextLayer.cpp.o
+[62/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIControl/UITextLayer/UITextSingleLayer.cpp.o
+[63/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIControl/UITextLayer/UITextGeneralLayer.cpp.o
+[64/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UICell/UICellType/Cell06/UICell06.cpp.o
+[65/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UICell/UICellType/Cell00/UICell00.cpp.o
+[66/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UICell/UICellType/Cell04/UICell04.cpp.o
+[67/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UICell/UICellType/Cell03/UICell03.cpp.o
+[68/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UIDisease/UIDisease.cpp.o
+[69/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UIDisease/UIDiseaseType/Disease00/UIDisease00.cpp.o
+[70/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UIDisease/UIDiseaseType/Disease04/UIDisease04.cpp.o
+[71/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UIDisease/UIDiseaseType/Disease01/UIDisease01.cpp.o
+[72/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UIDisease/UIDiseaseType/Disease02/UIDisease02.cpp.o
+[73/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UIObjects.cpp.o
+[74/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UIDisease/UIDiseaseType/Disease03/UIDisease03.cpp.o
+[75/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIControl/UIResultLayer/UIWinLayer.cpp.o
+[76/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UIProjectile/ProjectileType/Cell00Projectile/UICell00Projectile.cpp.o
+[77/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UICell/UICellType/Cell05/UICell05.cpp.o
+[78/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UIProjectile/UIProjectile.cpp.o
+[79/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UIDisease/UIDiseaseType/Disease05/UIDisease05.cpp.o
+[80/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UIProjectile/ProjectileType/Cell05Projectile/UICell05Projectile.cpp.o
+[81/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UIProjectile/ProjectileType/Cell03Projectile/UICell03Projectile.cpp.o
+[82/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Scenes/MainMenuScene/Components/MMOptions.cpp.o
+[83/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIObjects/UIDisease/UIDiseaseType/Disease06/UIDisease06.cpp.o
+[84/86] Building CXX object CMakeFiles/MyGame.dir/Classes/Models/Level/LevelModel.cpp.o
+[85/86] Building CXX object CMakeFiles/MyGame.dir/Classes/UIControl/UIPauseLayer/UIPauseLayer.cpp.o
+[86/86] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libMyGame.so
