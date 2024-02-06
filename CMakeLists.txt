@@ -50,9 +50,9 @@ endif()
 file(GLOB_RECURSE GAME_SOURCE
      "Classes/**.cpp"
      )
-     file(GLOB_RECURSE GAME_HEADER
-     "Classes/**.h"
-     )
+file(GLOB_RECURSE GAME_HEADER
+    "Classes/**.h"
+)
 
 if(ANDROID)
     # change APP_NAME to the share library name for Android, it's value depend on AndroidManifest.xml
