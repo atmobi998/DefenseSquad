@@ -102,18 +102,6 @@
       "artifactName": "ext_tinyxml2",
       "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libext_tinyxml2.a"
     },
-    "cocos2d-Debug-x86": {
-      "buildCommandComponents": [
-        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
-        "-C",
-        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
-        "cocos2d"
-      ],
-      "buildType": "debug",
-      "abi": "x86",
-      "artifactName": "cocos2d",
-      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libcocos2d.a"
-    },
     "ext_recast-Debug-x86": {
       "buildCommandComponents": [
         "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
@@ -125,6 +113,18 @@
       "abi": "x86",
       "artifactName": "ext_recast",
       "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libext_recast.a"
+    },
+    "cocos2d-Debug-x86": {
+      "buildCommandComponents": [
+        "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+        "cocos2d"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "cocos2d",
+      "output": "/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/lib/libcocos2d.a"
     },
     "external-Debug-x86": {
       "buildCommandComponents": [
