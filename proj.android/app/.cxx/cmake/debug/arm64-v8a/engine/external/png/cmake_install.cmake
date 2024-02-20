@@ -1,4 +1,4 @@
-# Install script for directory: /home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/external/png
+# Install script for directory: /Users/devmob/Desktop/Games/DefenseSquad/cocos2d/external/png
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

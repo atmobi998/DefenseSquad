@@ -1,4 +1,4 @@
-# Install script for directory: /home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos/platform/android
+# Install script for directory: /Users/devmob/Desktop/Games/DefenseSquad/cocos2d/cocos/platform/android
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

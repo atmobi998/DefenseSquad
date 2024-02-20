@@ -1,7 +1,7 @@
-Executable : /home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+Executable : /Users/devmob/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
 arguments : 
 -C
-/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86
+/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86
 MyGame
 jvmArgs : 
 

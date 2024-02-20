@@ -1,1 +1,1 @@
-/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/build/intermediates/cmake/debug/obj/x86
+/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/build/intermediates/cmake/debug/obj/x86

@@ -1,4 +1,4 @@
-# Install script for directory: /home/devmob/devmob_dev/Games/DefenseSquad/cocos2d/cocos
+# Install script for directory: /Users/devmob/Desktop/Games/DefenseSquad/cocos2d/cocos
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/armeabi-v7a/engine/external/cmake_install.cmake")
+  include("/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/armeabi-v7a/engine/external/cmake_install.cmake")
 
 endif()
 
