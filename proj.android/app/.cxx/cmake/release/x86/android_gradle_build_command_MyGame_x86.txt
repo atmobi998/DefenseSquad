@@ -1,0 +1,7 @@
+Executable : /home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/.cxx/cmake/release/x86
+MyGame
+jvmArgs : 
+

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/devmob/Desktop/Games/DefenseSquad/cocos2d/external/android-specific/tremolo
+# Install script for directory: /home/devmob/nexuszone/Games/DefenseSquad/cocos2d/external/android-specific/tremolo
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

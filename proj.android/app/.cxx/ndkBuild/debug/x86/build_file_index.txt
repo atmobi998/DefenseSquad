@@ -1,2 +1,0 @@
-/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Android.mk
-/home/devmob/devmob_dev/Games/DefenseSquad/proj.android/app/jni/Application.mk

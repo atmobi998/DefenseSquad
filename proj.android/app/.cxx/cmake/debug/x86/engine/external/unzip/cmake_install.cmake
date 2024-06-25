@@ -1,4 +1,4 @@
-# Install script for directory: /Users/devmob/Desktop/Games/DefenseSquad/cocos2d/external/unzip
+# Install script for directory: /home/devmob/nexuszone/Games/DefenseSquad/cocos2d/external/unzip
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

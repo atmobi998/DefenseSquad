@@ -3,19 +3,113 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="646b6301-7015-4d8c-9d29-89630aff0a40" name="Default Changelist" comment="" />
+    <list default="true" id="646b6301-7015-4d8c-9d29-89630aff0a40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DefenseSquad.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DefenseSquad.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/abi_configuration_3f67m2x1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/abi_configuration_3f67m2x1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/abi_configuration_3f67m2x1_key.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/abi_configuration_r4223e1j.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/abi_configuration_r4223e1j.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/abi_configuration_r4223e1j_key.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/arm64-v8a/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/arm64-v8a/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/arm64-v8a/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/arm64-v8a/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build_stdout_MyGame_arm64-v8a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build_stdout_MyGame_arm64-v8a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/arm64-v8a/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/arm64-v8a/json_generation_record.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/armeabi-v7a/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/armeabi-v7a/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/armeabi-v7a/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/armeabi-v7a/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/armeabi-v7a/android_gradle_build_stdout_MyGame_armeabi-v7a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/armeabi-v7a/android_gradle_build_stdout_MyGame_armeabi-v7a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/armeabi-v7a/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/armeabi-v7a/json_generation_record.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/x86/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/x86/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/x86/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/x86/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/x86/android_gradle_build_stdout_MyGame_x86.txt" beforeDir="false" afterPath="$PROJECT_DIR$/proj.android/app/.cxx/cmake/debug/x86/android_gradle_build_stdout_MyGame_x86.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build_command_MyGame_arm64-v8a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build_mini.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build_stderr_MyGame_arm64-v8a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/android_gradle_build_stdout_MyGame_arm64-v8a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/build_command.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/build_file_index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/build_model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/compile_commands.json.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/json_generation_record.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/metadata_generation_command.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/metadata_generation_stderr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/metadata_generation_stdout.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/prefab_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/arm64-v8a/symbol_folder_index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build_command_MyGame_armeabi-v7a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build_mini.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build_stderr_MyGame_armeabi-v7a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build_stdout_MyGame_armeabi-v7a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/build_command.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/build_file_index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/build_model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/compile_commands.json.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/json_generation_record.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/metadata_generation_command.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/metadata_generation_stderr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/metadata_generation_stdout.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/prefab_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/armeabi-v7a/symbol_folder_index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/android_gradle_build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/android_gradle_build_command_MyGame_x86.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/android_gradle_build_mini.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/android_gradle_build_stderr_MyGame_x86.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/android_gradle_build_stdout_MyGame_x86.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/build_command.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/build_file_index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/build_model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/compile_commands.json.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/json_generation_record.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/metadata_generation_command.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/metadata_generation_stderr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/metadata_generation_stdout.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/prefab_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndkBuild/debug/x86/symbol_folder_index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndk_locator_record_5d3bj5el.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndk_locator_record_5d3bj5el.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.android/app/.cxx/ndk_locator_record_5d3bj5el_key.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2bsy5hlj0X7f1QsEmNaTWs7D1l8" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
@@ -30,6 +124,17 @@
       <updated>1707017900092</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="2851" y="401" width="1431" height="1458" key="SettingsEditor" timestamp="1706400259191">

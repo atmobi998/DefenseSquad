@@ -6,12 +6,12 @@
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
-  "cxxBuildFolder": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+  "originalCxxBuildFolder": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+  "cxxBuildFolder": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
   "abiPlatformVersion": 21,
   "cmake": {
-    "cmakeWrappingBaseFolder": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/.cxx/cxx/debug/x86",
-    "cmakeArtifactsBaseFolder": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+    "cmakeWrappingBaseFolder": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/.cxx/cxx/debug/x86",
+    "cmakeArtifactsBaseFolder": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -19,9 +19,9 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
-      "cmakeToolchain": "/Users/devmob/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
-      "cmakeExecutable": "/Users/devmob/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+      "buildRoot": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86",
+      "cmakeToolchain": "/home/devmob/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmakeExecutable": "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/cmake",
       "variables": [
         {
           "name": "CMAKE_CXX_FLAGS",
@@ -29,7 +29,7 @@
         },
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/prefab/x86/prefab"
+          "value": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/prefab/x86/prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -37,7 +37,7 @@
         },
         {
           "name": "CMAKE_TOOLCHAIN_FILE",
-          "value": "/Users/devmob/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake"
+          "value": "/home/devmob/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake"
         },
         {
           "name": "ANDROID_ABI",
@@ -45,7 +45,7 @@
         },
         {
           "name": "ANDROID_NDK",
-          "value": "/Users/devmob/Library/Android/sdk/ndk/21.4.7075529"
+          "value": "/home/devmob/Android/Sdk/ndk/21.4.7075529"
         },
         {
           "name": "ANDROID_PLATFORM",
@@ -57,7 +57,7 @@
         },
         {
           "name": "CMAKE_ANDROID_NDK",
-          "value": "/Users/devmob/Library/Android/sdk/ndk/21.4.7075529"
+          "value": "/home/devmob/Android/Sdk/ndk/21.4.7075529"
         },
         {
           "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
@@ -65,15 +65,15 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/build/intermediates/cmake/debug/obj/x86"
+          "value": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/build/intermediates/cmake/debug/obj/x86"
         },
         {
           "name": "CMAKE_RUNTIME_OUTPUT_DIRECTORY",
-          "value": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/build/intermediates/cmake/debug/obj/x86"
+          "value": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/build/intermediates/cmake/debug/obj/x86"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
-          "value": "/Users/devmob/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
+          "value": "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja"
         },
         {
           "name": "CMAKE_SYSTEM_NAME",
@@ -97,7 +97,7 @@
         }
       ]
     },
-    "cmakeServerLogFile": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/cmake_server_log.txt"
+    "cmakeServerLogFile": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/x86/cmake_server_log.txt"
   },
   "variant": {
     "buildSystemArgumentList": [
@@ -111,8 +111,8 @@
       "-frtti -fexceptions -fsigned-char"
     ],
     "variantName": "debug",
-    "objFolder": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/build/intermediates/cmake/debug/obj",
-    "soFolder": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/build/intermediates/cmake/debug/obj",
+    "soFolder": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/build/intermediates/cmake/debug/lib",
     "isDebuggableEnabled": true,
     "validAbiList": [
       "ARMEABI_V7A",
@@ -125,15 +125,15 @@
     "implicitBuildTargetSet": [],
     "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "module": {
-      "cxxFolder": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/.cxx",
+      "cxxFolder": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/.cxx",
       "splitsAbiFilterSet": [],
-      "intermediatesFolder": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/build/intermediates",
+      "intermediatesFolder": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/build/intermediates",
       "gradleModulePathName": ":DefenseSquad",
-      "moduleRootFolder": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app",
-      "moduleBuildFile": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/build.gradle",
-      "makeFile": "/Users/devmob/Desktop/Games/DefenseSquad/CMakeLists.txt",
+      "moduleRootFolder": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app",
+      "moduleBuildFile": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/build.gradle",
+      "makeFile": "/home/devmob/nexuszone/Games/DefenseSquad/CMakeLists.txt",
       "buildSystem": "CMAKE",
-      "ndkFolder": "/Users/devmob/Library/Android/sdk/ndk/21.4.7075529",
+      "ndkFolder": "/home/devmob/Android/Sdk/ndk/21.4.7075529",
       "ndkVersion": "21.4.7075529",
       "ndkSupportedAbiList": [
         "ARMEABI_V7A",
@@ -196,31 +196,31 @@
           "default": true
         }
       ],
-      "originalCmakeToolchainFile": "/Users/devmob/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
-      "cmakeToolchainFile": "/Users/devmob/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "originalCmakeToolchainFile": "/home/devmob/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmakeToolchainFile": "/home/devmob/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
       "cmake": {
         "isValidCmakeAvailable": true,
-        "cmakeExe": "/Users/devmob/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+        "cmakeExe": "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/cmake",
         "minimumCmakeVersion": "3.10.2",
-        "ninjaExe": "/Users/devmob/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "ninjaExe": "/home/devmob/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
         "isPreferCmakeFileApiEnabled": true
       },
       "stlSharedObjectMap": {
         "LIBCXX_SHARED": {
-          "ARMEABI_V7A": "/Users/devmob/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
-          "ARM64_V8A": "/Users/devmob/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
-          "X86": "/Users/devmob/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
-          "X86_64": "/Users/devmob/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+          "ARMEABI_V7A": "/home/devmob/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/home/devmob/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/home/devmob/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/home/devmob/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
         },
         "LIBCXX_STATIC": {},
         "NONE": {},
         "SYSTEM": {}
       },
       "project": {
-        "rootBuildGradleFolder": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android",
-        "cxxFolder": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/.cxx",
-        "compilerSettingsCacheFolder": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/.cxx",
-        "sdkFolder": "/Users/devmob/Library/Android/sdk",
+        "rootBuildGradleFolder": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android",
+        "cxxFolder": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/.cxx",
+        "compilerSettingsCacheFolder": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/.cxx",
+        "sdkFolder": "/home/devmob/Android/Sdk",
         "isNativeCompilerSettingsCacheEnabled": false,
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
@@ -229,10 +229,10 @@
       },
       "nativeBuildOutputLevel": "QUIET"
     },
-    "prefabDirectory": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/prefab"
+    "prefabDirectory": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/prefab"
   },
   "buildSettings": {
     "environmentVariables": []
   },
-  "prefabFolder": "/Users/devmob/Desktop/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/prefab/x86"
+  "prefabFolder": "/home/devmob/nexuszone/Games/DefenseSquad/proj.android/app/.cxx/cmake/debug/prefab/x86"
 }
